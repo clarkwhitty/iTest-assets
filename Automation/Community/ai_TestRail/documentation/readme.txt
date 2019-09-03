@@ -4,6 +4,7 @@ Category: automation
 Class: Community
 
 
+
 This iTest script periodically checks for new execution reports that are eligible for TestRail export and then exports the discovered reports to TestRail with execution message detail. The TestRail test plan and test plan needs to already exist and passed as parameters to the test case. This automation will automatically create a case in TestRail if it doesn't already exist as long as the user supplies a test section for the case to be placed into.
 
 Code available at:
